@@ -1,1 +1,5 @@
-
+sources:
+  sysmon:
+    path: data/raw/sysmon/sysmon.json
+  firewall:
+    path: data/raw/firewall/firewall.json
