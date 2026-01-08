@@ -1,5 +1,5 @@
 sources:
   sysmon:
-    path: data/raw/sysmon/sysmon.json
+    path: data/raw/sysmon/sysmon.csv
   firewall:
-    path: data/raw/firewall/firewall.json
+    path: data/raw/firewall/firewall.csv
